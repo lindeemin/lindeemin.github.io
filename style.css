@@ -1,0 +1,92 @@
+.container_1{
+    width: 36%;
+    margin: auto;
+    padding: 0px;
+    background-color: #fff;
+    box-sizing: border-box;
+}
+.nav{
+    margin:5px;
+}
+.contact{
+    color: #666;
+    text-decoration: none;
+    font-size: small;
+}
+.contacts{
+    margin: 0;
+    padding: 0;
+    padding-top: 85px;
+    list-style-type: none;
+}
+.photo{
+    background-color: #F5F5F5;
+    width: 200px;
+    height: 200px;
+
+}
+.personally_info{
+    display:flex;
+    margin-bottom: 0px;
+}
+.person{
+    margin-left:10px;
+}
+.icons{
+    float: right;
+    padding: 5px;
+}
+.person_info{
+    margin-bottom: 0px;
+    font-size: small;
+}
+.person_skills{
+    margin-top:10px;
+}
+.clr{
+    clear: both;
+    width: auto;
+    height: 1px;
+    background-color: #666;
+}
+ul{
+    margin-top: 30px;
+}
+.skills-li{
+    
+    padding: 3px;
+    font-size: small;
+}
+.ed{
+    margin:0;
+    display: block;
+}
+.info{
+    font-weight: lighter;
+}
+.year{
+    margin-left: auto;
+    padding: 20px;
+}
+.education{
+    display:flex;
+    font-size: small;
+}
+.ed_bar{
+    padding:10px;
+    
+}
+
+.person_desc{
+    margin-top:10px;
+}
+.p_desc{
+    font-size: small;
+}
+.p_desc_class{
+    margin:15px;
+}
+.ul_class{
+    margin:15px;
+    padding:0px;
+}
